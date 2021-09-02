@@ -48,6 +48,11 @@ div div div{
 
 
 }
-body{
-    background-image:url("https://th.bing.com/th/id/R.cde5df2c6474527341f95e494d1e0595?rik=I6M4GwX%2bSsr1VQ&riu=http%3a%2f%2fi.huffpost.com%2fgen%2f2652580%2fimages%2fo-WEBSITE-facebook.jpg&ehk=MBCrg2ciAR61J2tEp573onTZDRpvORjOKccmXhZXWf0%3d&risl=&pid=ImgRaw&r=0")
+body
+{
+    background-image:url("https://th.bing.com/th/id/R.cde5df2c6474527341f95e494d1e0595?rik=I6M4GwX%2bSsr1VQ&riu=http%3a%2f%2fi.huffpost.com%2fgen%2f2652580%2fimages%2fo-WEBSITE-facebook.jpg&ehk=MBCrg2ciAR61J2tEp573onTZDRpvORjOKccmXhZXWf0%3d&risl=&pid=ImgRaw&r=0");
+    background-size: cover;
+
+
+
 }
